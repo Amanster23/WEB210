@@ -1,0 +1,21 @@
+.main {
+    text-align: center;
+}
+.control {
+    margin: 5px;
+}
+label {
+    display: inline-block;
+    width: 120px;
+    vertical-align: top;
+}
+fieldset {
+    display: inline-block;
+    width: 200px;
+}
+legend { 
+    outline: 1px solid black;
+}
+.required {
+    color: red;
+}
