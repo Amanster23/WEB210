@@ -1,0 +1,57 @@
+
+body {
+    background-color: #fadde1;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+#wrapper {
+    width: 800px;
+    margin: auto;
+}
+h1, h2 {
+    text-decoration: underline;
+}
+h1, h2, h3, p, form{
+    text-align: center;
+}
+
+#logo {
+    font-size: 1em;
+    text-align: center;
+    font-weight: bold;
+}
+
+#nav {
+    font-size: 2em;
+    font-weight: bold;
+    background-color: #ff97b7;
+    text-align: center;
+}
+
+#nav a:link {
+    color: white;
+}
+
+#nav a:visited {
+    font-size: 3em;
+}
+
+#nav a:hover {
+    color: #c77dff;
+}
+
+#content img {
+    padding: 10px;
+    float: left;
+}
+
+#footer {
+    text-align: center;
+    background-color: #ff97b7;
+    color: white;
+}
+.item img {
+    max-height: 300px;
+    max-width: 300px;
+    margin: 0 auto;
+}
